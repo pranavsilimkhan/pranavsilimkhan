@@ -3,7 +3,7 @@
 
 - 👨‍💻 Portfolio [https://pranavsilimkhan.github.io/](https://pranavsilimkhan.github.io/)
 
-- 💬 **Hello! I'm Pranav, an ambitious and creative computer science professional with a relentless pursuit of excellence in technology. With a Master's degree in Computer Science from Clemson University and a stellar academic record, I am adept at problem solving and algorithms, thriving on solving complex problems and building cutting-edge solutions. As an enthusiastic learner, I continuously explore the latest advancements in the field of computer science, and I am eager to apply my skills and knowledge to real-world challenges.**
+- 💬 About - **I'm an ambitious and creative computer science professional with a relentless pursuit of excellence in technology. With a Master's degree in Computer Science from Clemson University and a stellar academic record, I am adept at problem solving and algorithms, thriving on solving complex problems and building cutting-edge solutions. As an enthusiastic learner, I continuously explore the latest advancements in the field of computer science, and I am eager to apply my skills and knowledge to real-world challenges.**
 
 - 📫 How to reach me **pranavsilimkhan97@gmail.com**
 
